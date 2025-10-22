@@ -1,0 +1,21 @@
+# Core dependencies for GraspMAS Testing Environment
+jupyter
+notebook
+matplotlib
+pillow
+opencv-python
+numpy<2
+torch>=1.9.0
+torchvision
+scipy
+scikit-image
+shapely
+
+# For visualization and plotting
+seaborn
+ipywidgets
+
+# For path handling
+pathlib2
+
+# Note: Additional GraspMAS-specific requirements are in GraspMAS/requirements.txt
